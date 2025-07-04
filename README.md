@@ -1,33 +1,21 @@
-<h1 align="center">✨ Hi there, I'm Dhiraj Chatur ✨</h1>
-<h3 align="center">💻 Full Stack Developer | MERN & Java | Pune, India</h3>
+<h1 align="center">Hi 👋, I'm Dhiraj Chatur</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer from Pune, India</h3>
 
 <p align="center">
-  <a href="mailto:dhirajchatur.21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Dhiraj_Chatur-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhiraj-chatur-3821b81a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/CoderDheeraj21">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://personal-portfoolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderDheeraj21&style=flat-square&color=blue" alt="Profile views" />
+  <a href="mailto:dhirajchatur.21@gmail.com"><img src="https://img.shields.io/badge/email-dhirajchatur.21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dhiraj-chatur-3821b81a4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/CoderDheeraj21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://personal-portfoolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧭 About Me
-- 🚀 **Software Engineer Trainee** at AlgoDomain Solutions
-- 🎓 **B.Tech** in Computer Engineering – GH Raisoni Institute of Engineering and Technology
-- 💡 140+ LeetCode problems solved
-- ⚡ Love building user-focused, production-grade apps
-- 🤝 Always open for collaboration and learning
+
+- 💼 **Software Engineer Trainee** at AlgoDomain Solutions
+- 🎓 B.Tech in Computer Engineering – G H Raisoni Institute of Engineering and Technology, Pune
+- 🧩 140+ LeetCode problems solved – Algorithm lover!
+- 🤝 Enjoy collaborating on meaningful, user-focused projects
 
 ---
 
@@ -74,7 +62,7 @@
 ## 🚀 Featured Projects
 
 ### 🌟 [ZOCR – Image to Editable Text Converter](https://zocr.netlify.app/)
-> 🖼️ Converts images (PNG, JPG, WebP) and PDFs to editable text
+> Convert images (PNG, JPG, WebP) and PDFs into editable text
 
 - ⚛️ React.js frontend with modern UI/UX
 - 🗄️ Node.js + Express.js REST API
@@ -84,40 +72,30 @@
 ---
 
 ### 🌍 World Atlas Web Application
-> 🌐 Interactive country data explorer
+> Interactive real-time country data explorer
 
 - Built with React.js + Tailwind CSS
 - Integrated third-party REST APIs
-- Advanced search, sorting, filtering
+- Advanced search, sorting, and filtering
 
 ---
 
 ## 🎖️ Achievements & Certifications
 
 - ✅ 140+ LeetCode problems solved
-- 🥇 Grade A in Junior Java Full Stack Developer (NSDC, Ministry of Skills Development)
+- 🥇 Grade A certification in Junior Java Full Stack Developer program (NSDC, Ministry of Skills Development)
 - 📜 Multiple online certifications (Codecademy, Udemy, etc.)
 - 🐍 Python Developer Intern certification (BitMap Technology)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:dhirajchatur.21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhiraj-chatur-3821b81a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/CoderDheeraj21">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://personal-portfoolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+<p>
+  <a href="mailto:dhirajchatur.21@gmail.com"><img src="https://img.shields.io/badge/email-dhirajchatur.21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dhiraj-chatur-3821b81a4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/CoderDheeraj21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://personal-portfoolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
 
----
-
-⭐️ *Thanks for stopping by! Feel free to check out my projects and connect!*
+⭐️ Thanks for visiting my profile!
